@@ -1,0 +1,18 @@
+{
+    "1": {
+        "name": "Coffee",
+        "price": 5.00
+    },
+    "2": {
+        "name": "Tea",
+        "price": 3.00
+    },
+    "3": {
+        "name": "Sandwich",
+        "price": 7.50
+    },
+    "4": {
+        "name": "Cake",
+        "price": 4.00
+    }
+}
